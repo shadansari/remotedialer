@@ -10,7 +10,7 @@ import (
 	"time"
 
 	"github.com/gorilla/websocket"
-	"github.com/rancher/remotedialer/metrics"
+	"github.com/shadansari/remotedialer/metrics"
 	"github.com/sirupsen/logrus"
 )
 
